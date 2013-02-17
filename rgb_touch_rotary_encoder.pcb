@@ -836,7 +836,7 @@ Via[27.7803mm 21.3159mm 36.00mil 20.00mil 0.0000 20.00mil "" ""]
 Via[28.6419mm 14.8845mm 36.00mil 20.00mil 0.0000 20.00mil "" ""]
 Via[24.8702mm 748.64mil 36.00mil 20.00mil 0.0000 20.00mil "" ""]
 
-Element["" "LED5050" "U2" "unknown" 550.00mil 480.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U2" "unknown" 550.00mil 480.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -863,7 +863,7 @@ Element["" "LED5050" "U2" "unknown" 550.00mil 480.00mil 0.0000 0.0000 0 100 ""]
 
 	)
 
-Element["" "LED5050" "U3" "unknown" 340.00mil 620.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U3" "unknown" 340.00mil 620.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -890,7 +890,7 @@ Element["" "LED5050" "U3" "unknown" 340.00mil 620.00mil 0.0000 0.0000 0 100 ""]
 
 	)
 
-Element["" "LED5050" "U4" "unknown" 200.00mil 830.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U4" "unknown" 200.00mil 830.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -917,7 +917,7 @@ Element["" "LED5050" "U4" "unknown" 200.00mil 830.00mil 0.0000 0.0000 0 100 ""]
 
 	)
 
-Element["" "LED5050" "U5" "unknown" 150.00mil 1080.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U5" "unknown" 150.00mil 1080.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -944,7 +944,7 @@ Element["" "LED5050" "U5" "unknown" 150.00mil 1080.00mil 0.0000 0.0000 0 100 ""]
 
 	)
 
-Element["" "LED5050" "U6" "unknown" 200.00mil 1330.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U6" "unknown" 200.00mil 1330.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -971,7 +971,7 @@ Element["" "LED5050" "U6" "unknown" 200.00mil 1330.00mil 0.0000 0.0000 0 100 ""]
 
 	)
 
-Element["" "LED5050" "U7" "unknown" 340.00mil 1540.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U7" "unknown" 340.00mil 1540.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -998,7 +998,7 @@ Element["" "LED5050" "U7" "unknown" 340.00mil 1540.00mil 0.0000 0.0000 0 100 ""]
 
 	)
 
-Element["" "LED5050" "U8" "unknown" 550.00mil 1680.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U8" "unknown" 550.00mil 1680.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -1025,7 +1025,7 @@ Element["" "LED5050" "U8" "unknown" 550.00mil 1680.00mil 0.0000 0.0000 0 100 ""]
 
 	)
 
-Element["" "LED5050" "U9" "unknown" 800.00mil 1730.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U9" "unknown" 800.00mil 1730.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -1052,7 +1052,7 @@ Element["" "LED5050" "U9" "unknown" 800.00mil 1730.00mil 0.0000 0.0000 0 100 ""]
 
 	)
 
-Element["" "LED5050" "U10" "unknown" 1050.00mil 1680.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U10" "unknown" 1050.00mil 1680.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -1079,7 +1079,7 @@ Element["" "LED5050" "U10" "unknown" 1050.00mil 1680.00mil 0.0000 0.0000 0 100 "
 
 	)
 
-Element["" "LED5050" "U11" "unknown" 1260.00mil 1540.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U11" "unknown" 1260.00mil 1540.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -1106,7 +1106,7 @@ Element["" "LED5050" "U11" "unknown" 1260.00mil 1540.00mil 0.0000 0.0000 0 100 "
 
 	)
 
-Element["" "LED5050" "U12" "unknown" 1400.00mil 1330.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U12" "unknown" 1400.00mil 1330.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -1133,7 +1133,7 @@ Element["" "LED5050" "U12" "unknown" 1400.00mil 1330.00mil 0.0000 0.0000 0 100 "
 
 	)
 
-Element["" "LED5050" "U13" "unknown" 1450.00mil 1080.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U13" "unknown" 1450.00mil 1080.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -1160,7 +1160,7 @@ Element["" "LED5050" "U13" "unknown" 1450.00mil 1080.00mil 0.0000 0.0000 0 100 "
 
 	)
 
-Element["" "LED5050" "U14" "unknown" 1400.00mil 830.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U14" "unknown" 1400.00mil 830.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -1187,7 +1187,7 @@ Element["" "LED5050" "U14" "unknown" 1400.00mil 830.00mil 0.0000 0.0000 0 100 ""
 
 	)
 
-Element["" "LED5050" "U15" "unknown" 1260.00mil 620.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U15" "unknown" 1260.00mil 620.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -1214,7 +1214,7 @@ Element["" "LED5050" "U15" "unknown" 1260.00mil 620.00mil 0.0000 0.0000 0 100 ""
 
 	)
 
-Element["" "LED5050" "U16" "unknown" 1050.00mil 480.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U16" "unknown" 1050.00mil 480.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -1241,7 +1241,7 @@ Element["" "LED5050" "U16" "unknown" 1050.00mil 480.00mil 0.0000 0.0000 0 100 ""
 
 	)
 
-Element["" "0805" "C3" "unknown" 495.00mil 775.00mil -31.50mil -91.50mil 0 100 ""]
+Element["hidename" "0805" "C3" "unknown" 495.00mil 775.00mil -31.50mil -91.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1255,7 +1255,7 @@ Element["" "0805" "C3" "unknown" 495.00mil 775.00mil -31.50mil -91.50mil 0 100 "
 
 	)
 
-Element["" "0805" "C4" "unknown" 405.00mil 915.00mil -31.50mil -101.50mil 0 100 ""]
+Element["hidename" "0805" "C4" "unknown" 405.00mil 915.00mil -31.50mil -101.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1269,7 +1269,7 @@ Element["" "0805" "C4" "unknown" 405.00mil 915.00mil -31.50mil -101.50mil 0 100 
 
 	)
 
-Element["" "0805" "C5" "unknown" 370.00mil 1080.00mil -31.50mil -81.50mil 0 100 ""]
+Element["hidename" "0805" "C5" "unknown" 370.00mil 1080.00mil -31.50mil -81.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1283,7 +1283,7 @@ Element["" "0805" "C5" "unknown" 370.00mil 1080.00mil -31.50mil -81.50mil 0 100 
 
 	)
 
-Element["" "0805" "C6" "unknown" 405.00mil 1245.00mil -16.07mil -91.50mil 0 100 ""]
+Element["hidename" "0805" "C6" "unknown" 405.00mil 1245.00mil -16.07mil -91.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1297,7 +1297,7 @@ Element["" "0805" "C6" "unknown" 405.00mil 1245.00mil -16.07mil -91.50mil 0 100 
 
 	)
 
-Element["" "0805" "C7" "unknown" 495.00mil 1385.00mil -0.6622mm -81.50mil 0 100 ""]
+Element["hidename" "0805" "C7" "unknown" 495.00mil 1385.00mil -0.6622mm -81.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1311,7 +1311,7 @@ Element["" "0805" "C7" "unknown" 495.00mil 1385.00mil -0.6622mm -81.50mil 0 100 
 
 	)
 
-Element["" "0805" "C8" "unknown" 635.00mil 1475.00mil -31.50mil -71.50mil 0 100 ""]
+Element["hidename" "0805" "C8" "unknown" 635.00mil 1475.00mil -31.50mil -71.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1325,7 +1325,7 @@ Element["" "0805" "C8" "unknown" 635.00mil 1475.00mil -31.50mil -71.50mil 0 100 
 
 	)
 
-Element["" "0805" "C9" "unknown" 800.00mil 1510.00mil -0.6622mm -91.50mil 0 100 ""]
+Element["hidename" "0805" "C9" "unknown" 800.00mil 1510.00mil -0.6622mm -91.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1339,7 +1339,7 @@ Element["" "0805" "C9" "unknown" 800.00mil 1510.00mil -0.6622mm -91.50mil 0 100 
 
 	)
 
-Element["" "0805" "C11" "unknown" 1105.00mil 1385.00mil -41.50mil -91.50mil 0 100 ""]
+Element["hidename" "0805" "C11" "unknown" 1105.00mil 1385.00mil -41.50mil -91.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1353,7 +1353,7 @@ Element["" "0805" "C11" "unknown" 1105.00mil 1385.00mil -41.50mil -91.50mil 0 10
 
 	)
 
-Element["" "0805" "C12" "unknown" 1195.00mil 1245.00mil -0.9380mm -81.50mil 0 100 ""]
+Element["hidename" "0805" "C12" "unknown" 1195.00mil 1245.00mil -0.9380mm -81.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1367,7 +1367,7 @@ Element["" "0805" "C12" "unknown" 1195.00mil 1245.00mil -0.9380mm -81.50mil 0 10
 
 	)
 
-Element["" "0805" "C13" "unknown" 1230.00mil 1080.00mil -0.9162mm -91.50mil 0 100 ""]
+Element["hidename" "0805" "C13" "unknown" 1230.00mil 1080.00mil -0.9162mm -91.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1381,7 +1381,7 @@ Element["" "0805" "C13" "unknown" 1230.00mil 1080.00mil -0.9162mm -91.50mil 0 10
 
 	)
 
-Element["" "0805" "C14" "unknown" 1195.00mil 915.00mil -1.1702mm -91.50mil 0 100 ""]
+Element["hidename" "0805" "C14" "unknown" 1195.00mil 915.00mil -1.1702mm -91.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1395,7 +1395,7 @@ Element["" "0805" "C14" "unknown" 1195.00mil 915.00mil -1.1702mm -91.50mil 0 100
 
 	)
 
-Element["" "0805" "C15" "unknown" 1105.00mil 775.00mil -41.50mil -91.50mil 0 100 ""]
+Element["hidename" "0805" "C15" "unknown" 1105.00mil 775.00mil -41.50mil -91.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1409,7 +1409,7 @@ Element["" "0805" "C15" "unknown" 1105.00mil 775.00mil -41.50mil -91.50mil 0 100
 
 	)
 
-Element["" "0805" "C16" "unknown" 965.00mil 685.00mil -0.9380mm -91.50mil 0 100 ""]
+Element["hidename" "0805" "C16" "unknown" 965.00mil 685.00mil -0.9380mm -91.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1423,7 +1423,7 @@ Element["" "0805" "C16" "unknown" 965.00mil 685.00mil -0.9380mm -91.50mil 0 100 
 
 	)
 
-Element["" "rotary_encoder" "U18" "unknown" 800.00mil 1080.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "rotary_encoder" "U18" "unknown" 800.00mil 1080.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "Rotary Encoder")
 	Attribute("manufacturer" "unknown")
@@ -1452,7 +1452,7 @@ Element["" "rotary_encoder" "U18" "unknown" 800.00mil 1080.00mil 0.0000 0.0000 0
 
 	)
 
-Element["" "0805" "R3" "unknown" 800.00mil 750.00mil -31.50mil -31.50mil 0 100 ""]
+Element["hidename" "0805" "R3" "unknown" 800.00mil 750.00mil -31.50mil -31.50mil 0 100 ""]
 (
 	Attribute("device" "RESISTOR")
 	Attribute("manufacturer" "unknown")
@@ -1466,7 +1466,7 @@ Element["" "0805" "R3" "unknown" 800.00mil 750.00mil -31.50mil -31.50mil 0 100 "
 
 	)
 
-Element["" "LED5050" "U1" "unknown" 800.00mil 430.00mil 0.0000 0.0000 0 100 ""]
+Element["hidename" "LED5050" "U1" "unknown" 800.00mil 430.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
 	Attribute("manufacturer" "unknown")
@@ -1493,7 +1493,7 @@ Element["" "LED5050" "U1" "unknown" 800.00mil 430.00mil 0.0000 0.0000 0 100 ""]
 
 	)
 
-Element["" "0805" "C10" "unknown" 965.00mil 1475.00mil -61.50mil -86.50mil 0 100 ""]
+Element["hidename" "0805" "C10" "unknown" 965.00mil 1475.00mil -61.50mil -86.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1507,7 +1507,7 @@ Element["" "0805" "C10" "unknown" 965.00mil 1475.00mil -61.50mil -86.50mil 0 100
 
 	)
 
-Element["" "0805" "C1" "unknown" 800.00mil 650.00mil -31.50mil -111.50mil 0 100 ""]
+Element["hidename" "0805" "C1" "unknown" 800.00mil 650.00mil -31.50mil -111.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1521,7 +1521,7 @@ Element["" "0805" "C1" "unknown" 800.00mil 650.00mil -31.50mil -111.50mil 0 100 
 
 	)
 
-Element["" "0805" "C2" "unknown" 635.00mil 685.00mil -31.50mil -91.50mil 0 100 ""]
+Element["hidename" "0805" "C2" "unknown" 635.00mil 685.00mil -31.50mil -91.50mil 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1535,7 +1535,7 @@ Element["" "0805" "C2" "unknown" 635.00mil 685.00mil -31.50mil -91.50mil 0 100 "
 
 	)
 
-Element["" "JUMPER8" "CONN1" "unknown" 450.00mil 2090.00mil -120.00mil 60.00mil 1 100 ""]
+Element["hidename" "JUMPER8" "CONN1" "unknown" 450.00mil 2090.00mil -120.00mil 60.00mil 1 100 ""]
 (
 	Attribute("device" "CONNECTOR_8")
 	Attribute("manufacturer" "unknown")
@@ -1559,7 +1559,7 @@ Element["" "JUMPER8" "CONN1" "unknown" 450.00mil 2090.00mil -120.00mil 60.00mil 
 
 	)
 
-Element["" "JUMPER8" "CONN2" "unknown" 440.00mil 70.00mil -130.00mil 110.00mil 1 100 ""]
+Element["hidename" "JUMPER8" "CONN2" "unknown" 440.00mil 70.00mil -130.00mil 110.00mil 1 100 ""]
 (
 	Attribute("device" "CONNECTOR_8")
 	Attribute("manufacturer" "unknown")
@@ -1583,7 +1583,7 @@ Element["" "JUMPER8" "CONN2" "unknown" 440.00mil 70.00mil -130.00mil 110.00mil 1
 
 	)
 
-Element["" "TSSOP14" "U17" "unknown" 210.00mil 370.00mil -20.00mil -60.00mil 0 100 ""]
+Element["hidename" "TSSOP14" "U17" "unknown" 210.00mil 370.00mil -20.00mil -60.00mil 0 100 ""]
 (
 	Attribute("device" "MSP430x20x2")
 	Attribute("manufacturer" "unknown")
@@ -1613,7 +1613,7 @@ Element["" "TSSOP14" "U17" "unknown" 210.00mil 370.00mil -20.00mil -60.00mil 0 1
 
 	)
 
-Element["" "0805" "C17" "unknown" 60.00mil 620.00mil 0.6932mm 1.0892mm 1 100 ""]
+Element["hidename" "0805" "C17" "unknown" 60.00mil 620.00mil 0.6932mm 1.0892mm 1 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -1627,7 +1627,7 @@ Element["" "0805" "C17" "unknown" 60.00mil 620.00mil 0.6932mm 1.0892mm 1 100 ""]
 
 	)
 
-Element["" "JMP_SLDR-3N" "I2C_CLK" "unknown" 1210.00mil 250.00mil -122.50mil 95.00mil 1 100 ""]
+Element["hidename" "JMP_SLDR-3N" "I2C_CLK" "unknown" 1210.00mil 250.00mil -122.50mil 95.00mil 1 100 ""]
 (
 	Attribute("device" "HEADER3")
 	Attribute("manufacturer" "unknown")
@@ -1648,7 +1648,7 @@ Element["" "JMP_SLDR-3N" "I2C_CLK" "unknown" 1210.00mil 250.00mil -122.50mil 95.
 
 	)
 
-Element["" "0805" "R2" "unknown" 1330.00mil 380.00mil -31.50mil -81.50mil 0 100 ""]
+Element["hidename" "0805" "R2" "unknown" 1330.00mil 380.00mil -31.50mil -81.50mil 0 100 ""]
 (
 	Attribute("device" "RESISTOR")
 	Attribute("manufacturer" "unknown")
@@ -1662,7 +1662,7 @@ Element["" "0805" "R2" "unknown" 1330.00mil 380.00mil -31.50mil -81.50mil 0 100 
 
 	)
 
-Element["" "0805" "R1" "unknown" 1400.00mil 450.00mil -31.50mil -81.50mil 0 100 ""]
+Element["hidename" "0805" "R1" "unknown" 1400.00mil 450.00mil -31.50mil -81.50mil 0 100 ""]
 (
 	Attribute("device" "RESISTOR")
 	Attribute("manufacturer" "unknown")
