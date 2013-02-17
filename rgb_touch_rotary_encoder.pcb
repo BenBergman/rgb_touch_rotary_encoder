@@ -1387,9 +1387,9 @@ Element["" "rotary_encoder" "U18" "unknown" 1000.00mil 1210.00mil 0.0000 0.0000 
 	Pin[7.5000mm -2.5000mm 1.8000mm 0.5580mm 1.9524mm 1.1000mm "ENCB" "3" "edge2"]
 	Pin[7.5000mm 0.0000 1.8000mm 0.5580mm 1.9524mm 1.1000mm "GND" "4" "edge2,thermal(0X)"]
 	Pin[7.5000mm 2.5000mm 1.8000mm 0.5580mm 1.9524mm 1.1000mm "ENCA" "5" "edge2"]
-	Pin[0.0000 0.0000 8.7256mm 0.5580mm 8.8780mm 7.1000mm "POST1" "6" "edge2"]
+	Pin[0.0000 0.0000 8.7256mm 0.5580mm 8.8780mm 7.1000mm "POST1" "6" "warn,edge2"]
 	Pin[0.0000 -5.5000mm 2.8000mm 0.5580mm 2.9524mm 2.1000mm "POST2" "7" "edge2"]
-	Pin[0.0000 5.5000mm 2.8000mm 0.5580mm 2.9524mm 2.1000mm "" "8" "edge2"]
+	Pin[0.0000 5.5000mm 2.8000mm 0.5580mm 2.9524mm 2.1000mm "" "8" "warn,edge2"]
 	ElementLine [7.0000mm 3.5000mm 7.0000mm 6.0000mm 6.00mil]
 	ElementLine [7.0000mm 6.0000mm 1.5000mm 6.0000mm 6.00mil]
 	ElementLine [-1.5000mm 6.0000mm -7.0000mm 6.0000mm 6.00mil]
@@ -1627,69 +1627,70 @@ Element["" "0805" "C2" "unknown" 835.00mil 815.00mil -31.50mil -91.50mil 0 100 "
 	ElementLine [0.1756mm 0.6847mm 0.3600mm 0.6083mm 8.00mil]
 
 	)
-Rat[964.57mil 766.07mil 0 31.4446mm 19.1062mm 0  "via"]
-Rat[964.57mil 766.07mil 0 11.2505mm 170.00mil 0  "via"]
-Rat[13.8627mm 8.7565mm 0 11.2505mm 170.00mil 0  "via"]
+Rat[964.57mil 776.07mil 0 31.4446mm 19.1062mm 0  "via"]
+Rat[964.57mil 776.07mil 0 1880.00mil 2140.00mil 0  "via"]
+Rat[13.3547mm 8.5025mm 0 1880.00mil 2140.00mil 0  "via"]
 Rat[964.57mil 876.07mil 0 31.4446mm 19.1062mm 0  "via"]
-Rat[8.6453mm 613.58mil 0 11.2505mm 170.00mil 0  "via"]
+Rat[8.1373mm 15.3308mm 0 1880.00mil 2140.00mil 0  "via"]
 Rat[28.7214mm 20.4488mm 0 31.4446mm 19.1062mm 0  "via"]
 Rat[32.4401mm 22.4212mm 0 31.4446mm 19.1062mm 0  "via"]
 Rat[34.9964mm 25.7498mm 0 31.4446mm 19.1062mm 0  "via"]
-Rat[35.7142mm 29.8341mm 0 31.4446mm 19.1062mm 0  "via"]
-Rat[35.3042mm 33.9284mm 0 31.4446mm 19.1062mm 0  "via"]
+Rat[36.2222mm 29.8341mm 0 31.4446mm 19.1062mm 0  "via"]
+Rat[35.6852mm 34.0554mm 0 31.4446mm 19.1062mm 0  "via"]
 Rat[33.7128mm 37.7741mm 0 31.4446mm 19.1062mm 0  "via"]
-Rat[30.2572mm 40.4574mm 0 31.4446mm 19.1062mm 0  "via"]
+Rat[30.3842mm 40.3304mm 0 31.4446mm 19.1062mm 0  "via"]
 Rat[26.2999mm 41.5562mm 0 31.4446mm 19.1062mm 0  "via"]
-Rat[864.24mil 41.1462mm 0 31.4446mm 19.1062mm 0  "via"]
+Rat[869.24mil 41.0192mm 0 31.4446mm 19.1062mm 0  "via"]
 Rat[18.3599mm 39.0468mm 0 31.4446mm 19.1062mm 0  "via"]
 Rat[15.8036mm 35.7182mm 0 31.4446mm 19.1062mm 0  "via"]
 Rat[566.07mil 31.6339mm 0 31.4446mm 19.1062mm 0  "via"]
-Rat[14.9878mm 27.5397mm 0 31.4446mm 19.1062mm 0  "via"]
+Rat[15.1148mm 27.4127mm 0 31.4446mm 19.1062mm 0  "via"]
 Rat[17.0872mm 23.6939mm 0 31.4446mm 19.1062mm 0  "via"]
-Rat[20.2888mm 20.7566mm 0 31.4446mm 19.1062mm 0  "via"]
-Rat[34.5546mm 48.5638mm 0 1340.00mil 2130.00mil 1  ""]
-Rat[31.5982mm 11.6795mm 0 1350.00mil 90.00mil 1  ""]
-Rat[1000.00mil 16.9240mm 0 10.2634mm 11.8934mm 0  ""]
-Rat[850.00mil 90.00mil 1 10.6198mm 489.65mil 0  ""]
-Rat[950.00mil 90.00mil 1 10.9762mm 12.9807mm 0  ""]
+Rat[20.4158mm 21.1376mm 0 31.4446mm 19.1062mm 0  "via"]
+Rat[19.2018mm 49.7885mm 0 640.00mil 2130.00mil 1  ""]
+Rat[13.3547mm 8.5025mm 0 650.00mil 90.00mil 1  ""]
+Rat[16.4101mm 21.7441mm 0 15.6252mm 20.9592mm 0  ""]
+Rat[1000.00mil 16.9240mm 0 9.7554mm 11.6394mm 0  ""]
+Rat[1150.00mil 90.00mil 1 10.1118mm 479.65mil 0  ""]
+Rat[1050.00mil 90.00mil 1 10.4682mm 12.7267mm 0  ""]
 Rat[26.2999mm 876.07mil 0 1000.00mil 25.2340mm 1  ""]
-Rat[26.2999mm 876.07mil 0 11.3326mm 13.5243mm 0  ""]
-Rat[640.00mil 2130.00mil 1 11.6889mm 14.0679mm 0  ""]
-Rat[37.4967mm 367.50mil 0 12.0453mm 14.6115mm 0  ""]
-Rat[39.9098mm 355.00mil 0 668.48mil 11.3765mm 0  ""]
-Rat[840.00mil 2130.00mil 1 15.6446mm 11.4745mm 0  ""]
-Rat[15.6446mm 11.4745mm 0 26.8242mm 274.57mil 0  ""]
-Rat[1150.00mil 90.00mil 1 14.9318mm 10.3873mm 0  ""]
-Rat[1050.00mil 90.00mil 1 15.2881mm 430.35mil 0  ""]
-Rat[650.00mil 90.00mil 1 14.5754mm 9.8437mm 0  ""]
-Rat[750.00mil 90.00mil 1 14.2191mm 9.3001mm 0  ""]
-Rat[940.00mil 2130.00mil 1 18.4000mm 33.2340mm 1  ""]
-Rat[1040.00mil 2130.00mil 1 32.9000mm 28.2340mm 1  ""]
-Rat[1140.00mil 2130.00mil 1 32.9000mm 33.2340mm 1  ""]
-Rat[740.00mil 2130.00mil 1 936.07mil 274.57mil 0  ""]
-Rat[936.07mil 274.57mil 0 1530.00mil 361.25mil 0  ""]
-Rat[26.2999mm 766.07mil 0 27.0000mm 16.9240mm 0  ""]
-Rat[21.5615mm 17.3762mm 0 21.8752mm 19.8834mm 0  ""]
+Rat[26.2999mm 876.07mil 0 10.8246mm 13.2703mm 0  ""]
+Rat[1340.00mil 2130.00mil 1 11.1809mm 13.8139mm 0  ""]
+Rat[37.4967mm 367.50mil 0 11.5373mm 14.3575mm 0  ""]
+Rat[39.9098mm 355.00mil 0 648.48mil 11.1225mm 0  ""]
+Rat[1140.00mil 2130.00mil 1 15.1366mm 11.2205mm 0  ""]
+Rat[15.1366mm 11.2205mm 0 26.8242mm 274.57mil 0  ""]
+Rat[850.00mil 90.00mil 1 14.4238mm 10.1333mm 0  ""]
+Rat[950.00mil 90.00mil 1 14.7800mm 420.35mil 0  ""]
+Rat[1350.00mil 90.00mil 1 14.0674mm 9.5897mm 0  ""]
+Rat[1250.00mil 90.00mil 1 13.7111mm 356.15mil 0  ""]
+Rat[1040.00mil 2130.00mil 1 18.4000mm 33.2340mm 1  ""]
+Rat[940.00mil 2130.00mil 1 32.9000mm 28.2340mm 1  ""]
+Rat[840.00mil 2130.00mil 1 32.9000mm 33.2340mm 1  ""]
+Rat[1240.00mil 2130.00mil 1 1530.00mil 361.25mil 0  ""]
+Rat[1530.00mil 361.25mil 0 936.07mil 274.57mil 0  ""]
+Rat[26.2999mm 776.07mil 0 27.0000mm 16.9240mm 0  ""]
 Rat[16.7566mm 19.8278mm 0 18.2188mm 22.2801mm 0  ""]
+Rat[34.0434mm 41.6402mm 0 32.5812mm 39.1879mm 0  ""]
 Rat[11.5900mm 29.1340mm 0 566.07mil 29.8341mm 0  ""]
-Rat[32.2906mm 723.22mil 0 30.5877mm 819.93mil 0  ""]
-Rat[18.5094mm 43.0982mm 0 20.3394mm 40.5148mm 0  ""]
-Rat[11.8112mm 34.6682mm 0 14.9304mm 34.1318mm 0  ""]
-Rat[14.3170mm 39.5542mm 0 16.9461mm 37.9152mm 0  ""]
-Rat[29.2385mm 1735.90mil 0 28.6708mm 41.3306mm 0  ""]
+Rat[21.5615mm 17.3762mm 0 22.0022mm 20.2644mm 0  ""]
+Rat[29.2385mm 1735.90mil 0 28.7978mm 41.2036mm 0  ""]
 Rat[23.8000mm 44.5440mm 0 964.57mil 41.5562mm 0  ""]
+Rat[39.2100mm 32.3340mm 0 36.2222mm 31.6339mm 0  ""]
 Rat[1000.00mil 11.5240mm 0 26.8242mm 345.43mil 0  ""]
 Rat[26.8242mm 345.43mil 0 936.07mil 345.43mil 0  ""]
-Rat[513.22mil 23.8434mm 0 614.93mil 25.6734mm 0  ""]
-Rat[34.0434mm 41.6402mm 0 32.5812mm 39.1879mm 0  ""]
 Rat[36.4829mm 21.9138mm 0 33.8539mm 23.5528mm 0  ""]
+Rat[14.3170mm 39.5542mm 0 16.9461mm 37.9152mm 0  ""]
 Rat[38.9888mm 26.7998mm 0 35.8696mm 27.3362mm 0  ""]
-Rat[37.7642mm 37.6246mm 0 34.7998mm 35.6677mm 0  ""]
-Rat[39.2100mm 32.3340mm 0 35.7142mm 31.6339mm 0  ""]
-Rat[11.8068mm 17.1408mm 0 7.4915mm 14.1893mm 0  ""]
-Rat[7.4915mm 14.1893mm 0 8.9286mm 11.9915mm 0  ""]
-Rat[32.7832mm 48.4685mm 0 1240.00mil 2130.00mil 1  ""]
-Rat[26.8242mm 345.43mil 0 1250.00mil 90.00mil 1  ""]
+Rat[11.8112mm 34.6682mm 0 14.9304mm 34.1318mm 0  ""]
+Rat[37.7642mm 37.6246mm 0 35.1808mm 35.7947mm 0  ""]
+Rat[32.2906mm 723.22mil 0 30.4607mm 824.93mil 0  ""]
+Rat[18.5094mm 43.0982mm 0 20.3394mm 40.5148mm 0  ""]
+Rat[513.22mil 23.8434mm 0 614.93mil 25.6734mm 0  ""]
+Rat[11.8068mm 17.1408mm 0 6.9835mm 13.9354mm 0  ""]
+Rat[6.9835mm 13.9354mm 0 8.4206mm 11.7375mm 0  ""]
+Rat[18.1124mm 48.2375mm 0 740.00mil 2130.00mil 1  ""]
+Rat[936.07mil 345.43mil 0 750.00mil 90.00mil 1  ""]
 Layer(1 "top")
 (
 	Line[18.1124mm 13.2305mm 750.00mil 610.00mil 25.00mil 20.00mil "clearline"]
@@ -1877,8 +1878,8 @@ NetList()
 		Connect("C15-1")
 		Connect("C16-1")
 		Connect("C17-1")
-		Connect("CONN1-8")
-		Connect("CONN2-8")
+		Connect("CONN1-1")
+		Connect("CONN2-1")
 		Connect("R3-1")
 		Connect("U1-6")
 		Connect("U2-6")
@@ -1982,12 +1983,12 @@ NetList()
 	)
 	Net("unnamed_net17" "(unknown)")
 	(
-		Connect("CONN2-3")
+		Connect("CONN2-6")
 		Connect("U17-3")
 	)
 	Net("unnamed_net18" "(unknown)")
 	(
-		Connect("CONN2-4")
+		Connect("CONN2-5")
 		Connect("U17-4")
 	)
 	Net("unnamed_net19" "(unknown)")
@@ -1998,7 +1999,7 @@ NetList()
 	)
 	Net("unnamed_net20" "(unknown)")
 	(
-		Connect("CONN1-1")
+		Connect("CONN1-8")
 		Connect("U17-6")
 	)
 	Net("unnamed_net21" "(unknown)")
@@ -2013,48 +2014,48 @@ NetList()
 	)
 	Net("unnamed_net23" "(unknown)")
 	(
-		Connect("CONN1-3")
+		Connect("CONN1-6")
 		Connect("R2-1")
 		Connect("U17-9")
 	)
 	Net("unnamed_net24" "(unknown)")
 	(
-		Connect("CONN2-6")
+		Connect("CONN2-3")
 		Connect("U17-11")
 	)
 	Net("unnamed_net25" "(unknown)")
 	(
-		Connect("CONN2-5")
+		Connect("CONN2-4")
 		Connect("U17-10")
 	)
 	Net("unnamed_net26" "(unknown)")
 	(
-		Connect("CONN2-1")
+		Connect("CONN2-8")
 		Connect("U17-12")
 	)
 	Net("unnamed_net27" "(unknown)")
 	(
-		Connect("CONN2-2")
+		Connect("CONN2-7")
 		Connect("U17-13")
 	)
 	Net("unnamed_net28" "(unknown)")
 	(
-		Connect("CONN1-4")
+		Connect("CONN1-5")
 		Connect("U18-2")
 	)
 	Net("unnamed_net29" "(unknown)")
 	(
-		Connect("CONN1-5")
+		Connect("CONN1-4")
 		Connect("U18-3")
 	)
 	Net("unnamed_net30" "(unknown)")
 	(
-		Connect("CONN1-6")
+		Connect("CONN1-3")
 		Connect("U18-5")
 	)
 	Net("unnamed_net31" "(unknown)")
 	(
-		Connect("CONN1-2")
+		Connect("CONN1-7")
 		Connect("I2C_CLK-2")
 		Connect("R1-1")
 	)
@@ -2077,8 +2078,8 @@ NetList()
 		Connect("C15-2")
 		Connect("C16-2")
 		Connect("C17-2")
-		Connect("CONN1-7")
-		Connect("CONN2-7")
+		Connect("CONN1-2")
+		Connect("CONN2-2")
 		Connect("R1-2")
 		Connect("R2-2")
 		Connect("U1-3")
