@@ -1260,6 +1260,8 @@ Via[32.8457mm 745.78mil 36.00mil 20.00mil 0.0000 20.00mil "" ""]
 Via[27.7803mm 21.3159mm 36.00mil 20.00mil 0.0000 20.00mil "" ""]
 Via[28.6419mm 14.8845mm 36.00mil 20.00mil 0.0000 20.00mil "" ""]
 Via[24.8702mm 748.64mil 36.00mil 20.00mil 0.0000 20.00mil "" ""]
+Via[23.1742mm 12.6061mm 36.00mil 20.00mil 0.0000 20.00mil "" ""]
+Via[837.42mil 17.8660mm 36.00mil 20.00mil 0.0000 20.00mil "" ""]
 
 Element["hidename" "LED5050" "U2" "unknown" 550.00mil 480.00mil 0.0000 0.0000 0 100 ""]
 (
@@ -1877,20 +1879,6 @@ Element["hidename" "rotary_encoder" "U18" "unknown" 800.00mil 1080.00mil 0.0000 
 
 	)
 
-Element["hidename" "0805" "R3" "unknown" 800.00mil 750.00mil -31.50mil -31.50mil 0 100 ""]
-(
-	Attribute("device" "RESISTOR")
-	Attribute("manufacturer" "unknown")
-	Attribute("manufacturer_part_number" "unknown")
-	Attribute("vendor" "unknown")
-	Attribute("vendor_part_number" "unknown")
-	Pad[-35.43mil -3.93mil -35.43mil 3.93mil 51.18mil 20.00mil 57.18mil "1" "1" "square"]
-	Pad[35.43mil -3.93mil 35.43mil 3.93mil 51.18mil 20.00mil 57.18mil "2" "2" "square"]
-	ElementLine [-3.93mil -27.55mil 3.93mil -27.55mil 8.00mil]
-	ElementLine [-3.93mil 27.55mil 3.93mil 27.55mil 8.00mil]
-
-	)
-
 Element["hidename" "LED5050" "U1" "unknown" 800.00mil 430.00mil 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "WS2811 RGB LED")
@@ -2100,6 +2088,20 @@ Element["hidename" "0805" "R1" "unknown" 1400.00mil 450.00mil -31.50mil -81.50mi
 	ElementLine [-0.4242mm -0.5654mm -0.5654mm -0.4242mm 8.00mil]
 
 	)
+
+Element["hidename" "0805" "R3" "unknown" 800.00mil 760.00mil -31.50mil -31.50mil 0 100 ""]
+(
+	Attribute("device" "RESISTOR")
+	Attribute("manufacturer" "unknown")
+	Attribute("manufacturer_part_number" "unknown")
+	Attribute("vendor" "unknown")
+	Attribute("vendor_part_number" "unknown")
+	Pad[-35.43mil -3.93mil -35.43mil 3.93mil 51.18mil 20.00mil 57.18mil "1" "1" "square"]
+	Pad[35.43mil -3.93mil 35.43mil 3.93mil 51.18mil 20.00mil 57.18mil "2" "2" "square"]
+	ElementLine [-3.93mil -27.55mil 3.93mil -27.55mil 8.00mil]
+	ElementLine [-3.93mil 27.55mil 3.93mil 27.55mil 8.00mil]
+
+	)
 Layer(1 "top")
 (
 	Line[13.0324mm 9.9285mm 550.00mil 480.00mil 25.00mil 20.00mil "clearline"]
@@ -2244,8 +2246,6 @@ Layer(1 "top")
 	Line[23.6796mm 17.0546mm 22.8684mm 16.7186mm 25.00mil 20.00mil ""]
 	Line[764.57mil 604.57mil 764.57mil 695.43mil 25.00mil 20.00mil ""]
 	Line[764.57mil 650.00mil 730.00mil 650.00mil 25.00mil 20.00mil ""]
-	Line[764.57mil 704.57mil 764.57mil 795.43mil 25.00mil 20.00mil ""]
-	Line[764.57mil 750.00mil 730.00mil 750.00mil 25.00mil 20.00mil ""]
 	Line[14.8560mm 16.6773mm 15.7392mm 18.8095mm 25.00mil 20.00mil ""]
 	Line[15.2976mm 17.7434mm 14.4864mm 18.0794mm 25.00mil 20.00mil ""]
 	Line[11.1207mm 19.5054mm 12.7526mm 21.1373mm 25.00mil 20.00mil ""]
@@ -2285,7 +2285,6 @@ Layer(1 "top")
 	Line[180.00mil 11.0428mm 180.00mil 410.00mil 10.00mil 20.00mil "clearline"]
 	Line[800.00mil 580.00mil 800.00mil 13.3720mm 10.00mil 20.00mil "clearline"]
 	Line[800.00mil 21.9320mm 835.43mil 21.0321mm 10.00mil 20.00mil "clearline"]
-	Line[835.43mil 21.0321mm 835.43mil 750.00mil 10.00mil 20.00mil "clearline"]
 	Line[163.03mil 12.3929mm 220.00mil 10.9458mm 10.00mil 20.00mil "clearline"]
 	Line[220.00mil 10.9458mm 220.00mil 320.00mil 10.00mil 20.00mil "clearline"]
 	Line[550.00mil 2090.00mil 550.00mil 1980.00mil 40.00mil 20.00mil "clearline"]
@@ -2359,7 +2358,6 @@ Layer(1 "top")
 	Line[27.7803mm 21.3159mm 28.7034mm 20.3213mm 10.00mil 20.00mil "clearline"]
 	Line[28.6419mm 14.8845mm 1074.10mil 14.8845mm 10.00mil 20.00mil "clearline"]
 	Line[24.8702mm 748.64mil 25.3424mm 17.7434mm 10.00mil 20.00mil "clearline"]
-	Line[21.9200mm 13.6400mm 835.43mil 650.00mil 10.00mil 20.00mil "clearline"]
 	Line[9.0231mm 190.00mil 1040.00mil 190.00mil 10.00mil 20.00mil "clearline"]
 	Line[1040.00mil 190.00mil 1150.00mil 80.00mil 10.00mil 20.00mil "clearline"]
 	Line[1050.00mil 80.00mil 960.00mil 170.00mil 10.00mil 20.00mil "clearline"]
@@ -2368,6 +2366,12 @@ Layer(1 "top")
 	Line[880.00mil 150.00mil 950.00mil 80.00mil 10.00mil 20.00mil "clearline"]
 	Line[250.00mil 130.00mil 800.00mil 130.00mil 10.00mil 20.00mil "clearline"]
 	Line[800.00mil 130.00mil 850.00mil 80.00mil 10.00mil 20.00mil "clearline"]
+	Line[23.1742mm 12.6061mm 21.9180mm 516.79mil 10.00mil 20.00mil "clearline"]
+	Line[837.42mil 17.8660mm 835.43mil 650.00mil 10.00mil 20.00mil "clearline"]
+	Line[764.57mil 714.57mil 764.57mil 760.00mil 25.00mil 20.00mil ""]
+	Line[764.57mil 760.00mil 730.00mil 760.00mil 25.00mil 20.00mil ""]
+	Line[835.43mil 760.00mil 835.43mil 21.0321mm 10.00mil 20.00mil "clearline"]
+	Line[835.43mil 21.0321mm 800.00mil 21.9320mm 10.00mil 20.00mil "clearline"]
 	Arc[800.00mil 1080.00mil 650.00mil 650.00mil 40.00mil 20.00mil -90 90 "clearline"]
 	Arc[800.00mil 1080.00mil 650.00mil 650.00mil 40.00mil 20.00mil 0 90 "clearline"]
 	Arc[800.00mil 1080.00mil 650.00mil 650.00mil 40.00mil 20.00mil 90 90 "clearline"]
@@ -2460,6 +2464,7 @@ Layer(2 "ground")
 	Line[1490.00mil 1340.00mil 750.00mil 2080.00mil 10.00mil 20.00mil "clearline"]
 	Line[980.00mil 1350.00mil 980.00mil 1750.00mil 10.00mil 20.00mil "clearline"]
 	Line[980.00mil 1750.00mil 650.00mil 2080.00mil 10.00mil 20.00mil "clearline"]
+	Line[23.1742mm 12.6061mm 837.42mil 17.8660mm 10.00mil 20.00mil "clearline"]
 	Polygon("clearpoly")
 	(
 		[0.0000 0.0000] [1600.00mil 0.0000] [1600.00mil 2160.00mil] [0.0000 2160.00mil] 
