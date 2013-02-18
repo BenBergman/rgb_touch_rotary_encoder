@@ -1210,7 +1210,7 @@ Symbol['~' 12.00mil]
 	SymbolLine[34.00mil 36.00mil 36.00mil 30.00mil 8.00mil]
 	SymbolLine[36.00mil 30.00mil 36.00mil 26.00mil 8.00mil]
 )
-Attribute("PCB::grid::unit" "mm")
+Attribute("PCB::grid::unit" "mil")
 Attribute("PCB::grid::size" "5.00mil")
 Via[100.00mil 100.00mil 4.5016mm 1.0580mm 0.0000 2.3490mm "" ""]
 Via[160.00mil 370.00mil 36.00mil 20.00mil 0.0000 20.00mil "" ""]
@@ -2319,9 +2319,6 @@ Layer(1 "top")
 	Line[830.00mil 22.1860mm 865.43mil 21.2861mm 10.00mil 20.00mil "clearline"]
 	Line[193.03mil 12.6469mm 250.00mil 11.1998mm 10.00mil 20.00mil "clearline"]
 	Line[250.00mil 11.1998mm 250.00mil 330.00mil 10.00mil 20.00mil "clearline"]
-	Line[580.00mil 2100.00mil 580.00mil 1990.00mil 40.00mil 20.00mil "clearline"]
-	Line[580.00mil 1990.00mil 690.00mil 1880.00mil 40.00mil 20.00mil "clearline"]
-	Line[690.00mil 1880.00mil 690.00mil 1730.00mil 40.00mil 20.00mil "clearline"]
 	Line[2.2782mm 16.9018mm 2.2782mm 17.7799mm 25.00mil 20.00mil ""]
 	Line[1.1243mm 16.9018mm 3.4322mm 16.9018mm 25.00mil 20.00mil ""]
 	Line[80.00mil 520.00mil 80.00mil 540.00mil 40.00mil 20.00mil "clearline"]
@@ -2403,6 +2400,8 @@ Layer(1 "top")
 	Line[794.57mil 724.57mil 794.57mil 770.00mil 25.00mil 20.00mil ""]
 	Line[794.57mil 770.00mil 760.00mil 770.00mil 25.00mil 20.00mil ""]
 	Line[865.43mil 770.00mil 865.43mil 21.2861mm 10.00mil 20.00mil "clearline"]
+	Line[640.00mil 2030.00mil 700.00mil 1740.00mil 40.00mil 20.00mil "clearline"]
+	Line[640.00mil 2030.00mil 580.00mil 2090.00mil 40.00mil 20.00mil "clearline"]
 	Arc[830.00mil 1090.00mil 650.00mil 650.00mil 40.00mil 20.00mil -90 90 "clearline"]
 	Arc[830.00mil 1090.00mil 650.00mil 650.00mil 40.00mil 20.00mil 0 90 "clearline"]
 	Arc[830.00mil 1090.00mil 650.00mil 650.00mil 40.00mil 20.00mil 90 90 "clearline"]
