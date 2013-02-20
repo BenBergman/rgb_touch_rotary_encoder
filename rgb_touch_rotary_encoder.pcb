@@ -2447,6 +2447,14 @@ Layer(6 "bottom")
 )
 Layer(7 "outline")
 (
+	Line[1600.00mil 2180.00mil 60.00mil 2180.00mil 10.00mil 20.00mil "clearline"]
+	Line[0.0000 2120.00mil 0.0000 60.00mil 10.00mil 20.00mil "clearline"]
+	Line[60.00mil 0.0000 1600.00mil 0.0000 10.00mil 20.00mil "clearline"]
+	Line[1660.00mil 60.00mil 1660.00mil 2120.00mil 10.00mil 20.00mil "clearline"]
+	Arc[60.00mil 60.00mil 60.00mil 60.00mil 10.00mil 20.00mil -90 90 "clearline"]
+	Arc[1600.00mil 60.00mil 60.00mil 60.00mil 10.00mil 20.00mil 180 90 "clearline"]
+	Arc[60.00mil 2120.00mil 60.00mil 60.00mil 10.00mil 20.00mil 0 90 "clearline"]
+	Arc[1600.00mil 2120.00mil 60.00mil 60.00mil 10.00mil 20.00mil 180 -90 "clearline"]
 )
 Layer(8 "spare")
 (
